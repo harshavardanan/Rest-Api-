@@ -1,0 +1,11 @@
+This a simple rest api using Node.js
+
+1.npm init (to initiate the package)
+2. npm install nodemon express cors body-parser dotenv mongoose
+ 
+mongoose - tool to connect mongoDB
+nodemon - restarts the browser while there is a change in code
+dotenv - to secure database connectivity
+express - node tool to connect to browser
+cors - connection to cross origin resources
+body-parser - to access data in JSON
